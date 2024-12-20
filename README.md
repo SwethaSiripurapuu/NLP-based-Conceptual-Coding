@@ -12,7 +12,7 @@ Transfer Learning: A hierarchical classification model to predict Conceptual cod
 The data for this project is a set of Excel files containing interview transcript data. These files are confidential and therefore not included in this repository. Please ensure you have access to the required data files and load them as needed during preprocessing and training.
 
 ### Prerequisites
-Python 3.8+
+Python 3.8+, 
 Required Python libraries (Requirements.txt)
 
 The following links may come in handy:
