@@ -23,4 +23,3 @@ The following links may come in handy:
 ### Contributors
 - Swetha Siripurapu 
 - Rishabh Bhosle
-- Team Members - The Global Knowledge Lab
